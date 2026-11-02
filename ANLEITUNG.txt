@@ -1,0 +1,11 @@
+INSTALLATION ALS APP (ANDROID):
+1. Alle Dateien dieses Ordners gemeinsam auf einer HTTPS-Webadresse veröffentlichen (z.B. GitHub Pages).
+2. Die Adresse in Chrome öffnen.
+3. Chrome-Menü (drei Punkte) > App installieren bzw. Zum Startbildschirm hinzufügen.
+4. App-Icon erscheint auf dem Startbildschirm.
+
+OHNE HOSTING: Die separate Datei Abwesenheitsmanager_2027_mit_Icon.html direkt öffnen. Je nach Android-Browser ist eine Startbildschirm-Verknüpfung zu lokalen Dateien nicht verfügbar.
+
+FÜR KOLLEGEN: Nur App/ZIP weitergeben, keine persönliche Backup-JSON. Alle haben eigene lokale Daten. Startdatum und Rhythmus sind fest auf 03.01.2027 und A-F-A-F-A-F-F-F-F eingestellt und müssen bei anderem Dienstplan angepasst werden.
+
+DATENSCHUTZ: Einträge werden nur lokal im Browser gespeichert. Keine Synchronisierung. Regelmäßig JSON-Backup anlegen.
