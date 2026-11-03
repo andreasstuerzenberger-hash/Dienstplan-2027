@@ -1,5 +1,5 @@
 
-const CACHE = 'dienstplan-2027-v3';
+const CACHE = 'dienstplan-2027-v4';
 
 const FILES = [
   './',
